@@ -1,5 +1,0 @@
-2026-05-07 11:00:07,697 - agent - INFO-file_tools.py:7 - 开始阅读文件: data/read_file.txt
-2026-05-07 11:01:05,802 - agent - INFO-file_tools.py:7 - 开始阅读文件: data/read_file.txt
-2026-05-07 11:01:11,861 - agent - INFO-file_tools.py:7 - 开始阅读文件: data/read_file.txt
-2026-05-07 11:01:17,246 - agent - INFO-memory_manager.py:108 - Saved memory 'current_directory_structure' [project] to .memory\current_directory_structure.md
-2026-05-07 11:01:33,292 - agent - INFO-memory_manager.py:108 - Saved memory 'read_file_txt_summary' [project] to .memory\read_file_txt_summary.md

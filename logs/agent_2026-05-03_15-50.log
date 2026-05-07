@@ -1,4 +1,0 @@
-2026-05-03 15:50:08,705 - agent - INFO-memory_manager.py:44 - [Memory loaded: 3 memories from D:\学习资料整理\面试记录\Mini Claude Code\.memory]
-2026-05-03 15:50:10,103 - agent - INFO-file_tools.py:7 - 开始阅读文件: data/read_file.txt
-2026-05-03 15:50:25,650 - agent - INFO-memory_manager.py:44 - [Memory loaded: 3 memories from D:\学习资料整理\面试记录\Mini Claude Code\.memory]
-2026-05-03 15:50:27,007 - agent - INFO-file_tools.py:7 - 开始阅读文件: data/read_file.txt

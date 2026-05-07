@@ -1,6 +1,0 @@
-2026-05-05 15:20:00,411 - agent - INFO-file_tools.py:7 - 开始阅读文件: D:\学习资料整理\面试记录\Mini Claude Code\data\read_file.txt
-2026-05-05 15:20:00,415 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
-2026-05-05 15:20:00,415 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
-2026-05-05 15:20:00,418 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
-2026-05-05 15:20:00,420 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
-2026-05-05 15:20:00,421 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
