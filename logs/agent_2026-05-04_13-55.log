@@ -1,0 +1,33 @@
+2026-05-04 13:59:37,129 - agent - INFO-memory_manager.py:44 - [Memory loaded: 1 memories from D:\学习资料整理\面试记录\Mini Claude Code\.memory]
+2026-05-04 13:59:37,129 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 13:59:37,129 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 13:59:37,132 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 13:59:37,134 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 13:59:37,160 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 13:59:39,529 - agent - INFO-file_tools.py:7 - 开始阅读文件: data\read_file.txt
+2026-05-04 13:59:39,532 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 13:59:39,532 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 13:59:39,535 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 13:59:39,536 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 13:59:39,537 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 13:59:40,782 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 13:59:40,782 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 13:59:40,784 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 13:59:40,786 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 13:59:40,787 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 13:59:42,286 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 13:59:42,286 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 13:59:42,289 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 13:59:42,290 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 13:59:42,291 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 13:59:43,344 - agent - INFO-file_tools.py:7 - 开始阅读文件: data\read_file.txt
+2026-05-04 13:59:43,346 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 13:59:43,346 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 13:59:43,349 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 13:59:43,352 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 13:59:43,353 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 13:59:44,979 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 13:59:44,979 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 13:59:44,983 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 13:59:44,984 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 13:59:44,985 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词

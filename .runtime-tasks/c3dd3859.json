@@ -1,0 +1,10 @@
+{
+  "id": "c3dd3859",
+  "status": "running",
+  "result": null,
+  "command": "timeout /t 10",
+  "started_at": 1778127490.3754117,
+  "finished_at": null,
+  "result_preview": "",
+  "output_file": ".runtime-tasks\\c3dd3859.log"
+}

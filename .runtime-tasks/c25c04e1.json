@@ -1,0 +1,10 @@
+{
+  "id": "c25c04e1",
+  "status": "completed",
+  "result": "Waiting for 10 seconds, press a key to continue ...\b\b 9\b\b 8\b\b 7\b\b 6\b\b 5\b\b 4\b\b 3\b\b 2\b\b 1\b\b 0",
+  "command": "timeout 10",
+  "started_at": 1777987414.1831799,
+  "finished_at": 1777987424.173395,
+  "result_preview": "Waiting for 10 seconds, press a key to continue ...\b\b 9\b\b 8\b\b 7\b\b 6\b\b 5\b\b 4\b\b 3\b\b 2\b\b 1\b\b 0",
+  "output_file": ".runtime-tasks\\c25c04e1.log"
+}

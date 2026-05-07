@@ -1,0 +1,13 @@
+2026-05-03 16:55:15,132 - agent - INFO-memory_manager.py:44 - [Memory loaded: 3 memories from D:\学习资料整理\面试记录\Mini Claude Code\.memory]
+2026-05-03 16:55:15,132 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-03 16:55:15,132 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-03 16:55:34,735 - agent - INFO-memory_manager.py:44 - [Memory loaded: 3 memories from D:\学习资料整理\面试记录\Mini Claude Code\.memory]
+2026-05-03 16:55:34,736 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-03 16:55:34,736 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-03 16:56:59,831 - agent - INFO-memory_manager.py:44 - [Memory loaded: 3 memories from D:\学习资料整理\面试记录\Mini Claude Code\.memory]
+2026-05-03 16:56:59,832 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-03 16:56:59,832 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-03 16:56:59,835 - agent - INFO-system_prompt_builder_manager.py:76 - 构建技能列表提示词
+2026-05-03 16:59:19,178 - agent - INFO-memory_manager.py:44 - [Memory loaded: 3 memories from D:\学习资料整理\面试记录\Mini Claude Code\.memory]
+2026-05-03 16:59:19,179 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-03 16:59:19,179 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词

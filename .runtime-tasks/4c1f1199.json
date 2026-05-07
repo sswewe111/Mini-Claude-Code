@@ -1,0 +1,10 @@
+{
+  "id": "4c1f1199",
+  "status": "completed",
+  "result": "Waiting for 3 seconds, press a key to continue ...\b2\b1\b0\ndone",
+  "command": "timeout 3 && echo done",
+  "started_at": 1777964158.4417336,
+  "finished_at": 1777964161.1476126,
+  "result_preview": "Waiting for 3 seconds, press a key to continue ...\b2\b1\b0 done",
+  "output_file": ".runtime-tasks\\4c1f1199.log"
+}

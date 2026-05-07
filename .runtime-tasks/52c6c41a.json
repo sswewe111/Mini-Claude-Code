@@ -1,0 +1,10 @@
+{
+  "id": "52c6c41a",
+  "status": "completed",
+  "result": "等待 5 秒，按一个键继续 ...\b4\b3\b2\b1\b0",
+  "command": "timeout /t 5",
+  "started_at": 1778127483.5782785,
+  "finished_at": 1778127488.1978824,
+  "result_preview": "等待 5 秒，按一个键继续 ...\b4\b3\b2\b1\b0",
+  "output_file": ".runtime-tasks\\52c6c41a.log"
+}

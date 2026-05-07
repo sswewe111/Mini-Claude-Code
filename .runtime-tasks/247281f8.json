@@ -1,0 +1,10 @@
+{
+  "id": "247281f8",
+  "status": "completed",
+  "result": "'sleep' is not recognized as an internal or external command,\noperable program or batch file.",
+  "command": "sleep 5",
+  "started_at": 1778127827.4679995,
+  "finished_at": 1778127827.502557,
+  "result_preview": "'sleep' is not recognized as an internal or external command, operable program or batch file.",
+  "output_file": ".runtime-tasks\\247281f8.log"
+}

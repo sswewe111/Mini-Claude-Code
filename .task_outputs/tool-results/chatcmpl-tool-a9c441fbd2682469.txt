@@ -1,0 +1,26 @@
+Volume in drive D is Data
+ Volume Serial Number is 0EE6-DDD6
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code
+
+2026/04/29  11:03    <DIR>          .
+2026/04/29  11:03    <DIR>          ..
+2026/04/28  14:11               157 .env
+2026/04/29  11:09    <DIR>          .transcripts
+2026/04/28  11:48    <DIR>          .vscode
+2026/04/29  11:05             4,993 agent_loop.py
+2026/04/29  09:03    <DIR>          configs
+2026/04/28  21:23    <DIR>          data
+2026/04/29  09:17    <DIR>          logs
+2026/04/28  16:50                 0 README.md
+2026/04/28  21:01    <DIR>          skills
+2026/04/28  13:59    <DIR>          state
+2026/04/28  20:13    <DIR>          subagent
+2026/04/29  10:09             1,071 system_prompt.py
+2026/04/29  09:06    <DIR>          tools
+2026/04/29  09:50             4,437 tools_configs.py
+2026/04/29  10:17             1,016 tools_handlers.py
+2026/04/28  20:10    <DIR>          utils
+2026/04/29  10:54    <DIR>          __pycache__
+               6 File(s)         11,674 bytes
+              13 Dir(s)  38,538,719,232 bytes free

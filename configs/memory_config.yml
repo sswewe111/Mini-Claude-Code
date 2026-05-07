@@ -1,0 +1,9 @@
+MEMORY_DIR:  ".memory"
+MEMORY_INDEX: "MEMORY.md"
+MEMORY_TYPES: ("user", "feedback", "project", "reference")
+MAX_INDEX_LINES: 200
+
+COOLDOWN_SECONDS: 86400       
+SCAN_THROTTLE_SECONDS: 600    
+MIN_SESSION_COUNT: 5          
+LOCK_STALE_SECONDS: 3600     

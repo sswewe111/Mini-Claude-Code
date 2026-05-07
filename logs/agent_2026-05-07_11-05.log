@@ -1,0 +1,8 @@
+2026-05-07 11:07:12,459 - agent - INFO-memory_manager.py:44 - [Memory loaded: 2 memories from D:\学习资料整理\面试记录\Mini Claude Code\.memory]
+2026-05-07 11:07:17,314 - agent - INFO-teammate_manager.py:90 - Spawning teammate 'teammate1' with role 'directory_inspector'
+2026-05-07 11:07:17,316 - agent - INFO-teammate_manager.py:112 - Teammate 'teammate1' started with role 'directory_inspector' 
+2026-05-07 11:07:17,316 - agent - INFO-teammate_manager.py:90 - Spawning teammate 'teammate2' with role 'file_summarizer'
+2026-05-07 11:07:26,699 - agent - INFO-teammate_manager.py:90 - Spawning teammate 'teammate1' with role 'directory_inspector'
+2026-05-07 11:07:26,701 - agent - INFO-teammate_manager.py:112 - Teammate 'teammate1' started with role 'directory_inspector' 
+2026-05-07 11:07:37,382 - agent - INFO-teammate_manager.py:90 - Spawning teammate 'teammate1' with role 'directory_inspector'
+2026-05-07 11:07:41,460 - agent - INFO-file_tools.py:7 - 开始阅读文件: data/read_file.txt

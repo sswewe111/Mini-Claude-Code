@@ -1,0 +1,10 @@
+{
+  "id": "00a0799a",
+  "status": "running",
+  "result": null,
+  "command": "timeout 10",
+  "started_at": 1777987445.4136446,
+  "finished_at": null,
+  "result_preview": "",
+  "output_file": ".runtime-tasks\\00a0799a.log"
+}

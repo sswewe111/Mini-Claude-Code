@@ -1,0 +1,13 @@
+2026-05-03 17:42:08,437 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-03 17:42:08,454 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-03 17:42:08,465 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-03 17:42:08,495 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-03 17:42:10,025 - agent - INFO-file_tools.py:7 - 开始阅读文件: data/read_file.txt
+2026-05-03 17:42:10,028 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-03 17:42:10,028 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-03 17:42:10,030 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-03 17:42:10,032 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-03 17:42:11,219 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-03 17:42:11,219 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-03 17:42:11,222 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-03 17:42:11,223 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词

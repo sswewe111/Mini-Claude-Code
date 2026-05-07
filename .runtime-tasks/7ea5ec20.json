@@ -1,0 +1,10 @@
+{
+  "id": "7ea5ec20",
+  "status": "completed",
+  "result": "Done",
+  "command": "python translate.py",
+  "started_at": 1777877566.0660923,
+  "finished_at": 1777877566.226191,
+  "result_preview": "Done",
+  "output_file": ".runtime-tasks\\7ea5ec20.log"
+}

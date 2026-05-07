@@ -1,0 +1,10 @@
+{
+  "id": "e4c40538",
+  "status": "completed",
+  "result": "Waiting for 5 seconds, press a key to continue ...\b4\b3\b2\b1\b0",
+  "command": "timeout 5",
+  "started_at": 1777987403.2830837,
+  "finished_at": 1777987408.1563554,
+  "result_preview": "Waiting for 5 seconds, press a key to continue ...\b4\b3\b2\b1\b0",
+  "output_file": ".runtime-tasks\\e4c40538.log"
+}

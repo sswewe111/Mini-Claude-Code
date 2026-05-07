@@ -1,0 +1,9 @@
+{
+  "request_id": "62977dbe",
+  "kind": "shutdown",
+  "from": "lead",
+  "to": "teammate1",
+  "status": "pending",
+  "created_at": 1778127843.262861,
+  "updated_at": 1778127843.262861
+}

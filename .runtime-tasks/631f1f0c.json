@@ -1,0 +1,10 @@
+{
+  "id": "631f1f0c",
+  "status": "completed",
+  "result": "'sleep' 不是内部或外部命令，也不是可运行的程序\n或批处理文件。",
+  "command": "sleep 5",
+  "started_at": 1778127478.615805,
+  "finished_at": 1778127478.6522446,
+  "result_preview": "'sleep' 不是内部或外部命令，也不是可运行的程序 或批处理文件。",
+  "output_file": ".runtime-tasks\\631f1f0c.log"
+}

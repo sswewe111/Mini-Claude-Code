@@ -1,0 +1,12 @@
+2026-05-03 18:00:36,761 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-03 18:00:36,761 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-03 18:00:36,764 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-03 18:00:36,780 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-03 18:00:55,360 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-03 18:00:55,361 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-03 18:00:55,364 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-03 18:00:55,382 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-03 18:04:21,195 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-03 18:04:21,195 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-03 18:04:21,198 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-03 18:04:21,226 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词

@@ -1,0 +1,54 @@
+modes:
+  - default
+  - plan
+  - auto
+
+read_only_tools:
+  - read_file
+
+write_tools:
+  - write_file
+  - edit_file
+  # - bash
+
+default_rules:
+  # Always deny dangerous Windows command patterns
+  # Linux: rm -rf / -> Windows recursive/forced delete commands
+  - tool: bash
+    content: "del *"
+    behavior: deny
+
+  - tool: bash
+    content: "erase *"
+    behavior: deny
+
+  - tool: bash
+    content: "rd *"
+    behavior: deny
+
+  - tool: bash
+    content: "rmdir *"
+    behavior: deny
+
+  - tool: bash
+    content: "Remove-Item *"
+    behavior: deny
+
+  - tool: bash
+    content: "rm *"
+    behavior: deny
+
+
+  # Linux: sudo * -> Windows privilege elevation commands
+  - tool: bash
+    content: "runas /user:*"
+    behavior: deny
+
+  - tool: bash
+    content: "Start-Process * -Verb RunAs"
+    behavior: deny
+
+  # Allow reading anything
+  - tool: read_file
+    path: "*"
+    behavior: allow

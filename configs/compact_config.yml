@@ -1,0 +1,12 @@
+# 当消息历史长度估算超过 50000 时，触发自动压缩
+CONTEXT_LIMIT: 50000
+#只保留最近 5 个完整工具结果
+KEEP_RECENT_TOOL_RESULTS : 5
+#单个工具输出超过 30000 字符时保存到磁盘
+PERSIST_THRESHOLD : 30000
+#长输出只保留前 2000 个字符作为预览
+PREVIEW_CHARS : 2000
+#保存完整对话转录的目录
+TRANSCRIPT_DIR : ".transcripts"
+#保存大型工具输出的目录
+TOOL_RESULTS_DIR : ".task_outputs/tool-results"

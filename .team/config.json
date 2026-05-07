@@ -1,0 +1,15 @@
+{
+  "team_name": "default",
+  "members": [
+    {
+      "name": "teammate1",
+      "role": "directory_inspector",
+      "status": "shutdown"
+    },
+    {
+      "name": "teammate2",
+      "role": "file_summarizer",
+      "status": "shutdown"
+    }
+  ]
+}

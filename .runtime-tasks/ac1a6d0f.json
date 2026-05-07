@@ -1,0 +1,10 @@
+{
+  "id": "ac1a6d0f",
+  "status": "completed",
+  "result": "Waiting for 15 seconds, press a key to continue ...\b\b14\b\b13\b\b12\b\b11\b\b10\b\b 9\b\b 8\b\b 7\b\b 6\b\b 5\b\b 4\b\b 3\b\b 2\b\b 1\b\b 0",
+  "command": "timeout 15",
+  "started_at": 1778127706.7341347,
+  "finished_at": 1778127721.1866953,
+  "result_preview": "Waiting for 15 seconds, press a key to continue ...\b\b14\b\b13\b\b12\b\b11\b\b10\b\b 9\b\b 8\b\b 7\b\b 6\b\b 5\b\b 4\b\b 3\b\b 2\b\b 1\b\b 0",
+  "output_file": ".runtime-tasks\\ac1a6d0f.log"
+}

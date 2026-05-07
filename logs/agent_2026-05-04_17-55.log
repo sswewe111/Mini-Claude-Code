@@ -1,0 +1,143 @@
+2026-05-04 17:55:03,850 - agent - INFO-teammate_manager.py:179 - Spawning teammate '目录探索员' with role '文件系统探索'
+2026-05-04 17:55:03,852 - agent - INFO-teammate_manager.py:201 - Teammate '目录探索员' started with role '文件系统探索' 
+2026-05-04 17:55:03,852 - agent - INFO-teammate_manager.py:179 - Spawning teammate '文件阅读员' with role '文件内容读取与分析'
+2026-05-04 17:55:03,857 - agent - INFO-teammate_manager.py:201 - Teammate '文件阅读员' started with role '文件内容读取与分析' 
+2026-05-04 17:55:03,864 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:55:03,865 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:55:03,868 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:55:03,870 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:55:03,871 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:55:09,704 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:55:09,704 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:55:09,706 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:55:09,708 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:55:09,709 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:55:13,188 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:55:13,189 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:55:13,191 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:55:13,193 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:55:13,194 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:55:17,457 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:55:17,457 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:55:17,460 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:55:17,463 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:55:17,464 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:55:19,834 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:55:19,834 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:55:19,837 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:55:19,839 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:55:19,840 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:55:21,570 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:55:21,570 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:55:21,572 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:55:21,574 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:55:21,574 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:55:23,213 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:55:23,213 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:55:23,215 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:55:23,217 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:55:23,217 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:55:32,172 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:55:32,172 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:55:32,179 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:55:32,182 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:55:32,182 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:55:34,593 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:55:34,594 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:55:34,596 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:55:34,598 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:55:34,599 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:55:35,900 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:55:35,900 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:55:35,903 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:55:35,904 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:55:35,905 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:55:37,168 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:55:37,169 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:55:37,171 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:55:37,173 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:55:37,173 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:57:31,512 - agent - INFO-memory_manager.py:44 - [Memory loaded: 1 memories from D:\学习资料整理\面试记录\Mini Claude Code\.memory]
+2026-05-04 17:57:31,513 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:57:31,513 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:57:31,515 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:57:31,517 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:57:31,544 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:57:35,134 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:57:35,134 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:57:35,138 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:57:35,141 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:57:35,142 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:57:37,398 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:57:37,398 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:57:37,402 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:57:37,405 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:57:37,406 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:57:41,887 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:57:41,888 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:57:41,890 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:57:41,892 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:57:41,893 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:58:01,918 - agent - INFO-memory_manager.py:44 - [Memory loaded: 1 memories from D:\学习资料整理\面试记录\Mini Claude Code\.memory]
+2026-05-04 17:58:01,919 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:58:01,919 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:58:01,922 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:58:01,923 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:58:01,950 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:58:05,152 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:58:05,153 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:58:05,156 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:58:05,157 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:58:05,158 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:58:07,592 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:58:07,592 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:58:07,594 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:58:07,596 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:58:07,596 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:58:13,301 - agent - INFO-teammate_manager.py:179 - Spawning teammate 'explorer' with role '目录探索员'
+2026-05-04 17:58:13,303 - agent - INFO-teammate_manager.py:201 - Teammate 'explorer' started with role '目录探索员' 
+2026-05-04 17:58:13,304 - agent - INFO-teammate_manager.py:179 - Spawning teammate 'reader' with role '文件阅读员'
+2026-05-04 17:58:13,308 - agent - INFO-teammate_manager.py:201 - Teammate 'reader' started with role '文件阅读员' 
+2026-05-04 17:58:13,314 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:58:13,315 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:58:13,317 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:58:13,319 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:58:13,320 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:58:15,454 - agent - INFO-file_tools.py:7 - 开始阅读文件: data/read_file.txt
+2026-05-04 17:58:16,216 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:58:16,217 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:58:16,220 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:58:16,222 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:58:16,222 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:58:23,112 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:58:23,112 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:58:23,115 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:58:23,117 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:58:23,117 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:58:26,365 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:58:26,365 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:58:26,368 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:58:26,370 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:58:26,370 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:58:30,136 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:58:30,137 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:58:30,141 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:58:30,145 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:58:30,146 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:58:33,977 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:58:33,977 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:58:33,981 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:58:33,983 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:58:33,983 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:58:41,644 - agent - INFO-memory_manager.py:108 - Saved memory 'read_file_content_summary' [reference] to .memory\read_file_content_summary.md
+2026-05-04 17:58:41,649 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:58:41,649 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:58:41,652 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:58:41,655 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:58:41,656 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词
+2026-05-04 17:58:50,984 - agent - INFO-memory_manager.py:108 - Saved memory 'read_file_content_summary' [reference] to .memory\read_file_content_summary.md
+2026-05-04 17:58:50,987 - agent - INFO-system_prompt_builder_manager.py:35 - 构建核心提示词
+2026-05-04 17:58:50,987 - agent - INFO-system_prompt_builder_manager.py:50 - 构建工具列表提示词
+2026-05-04 17:58:50,993 - agent - INFO-system_prompt_builder_manager.py:77 - 构建技能列表提示词
+2026-05-04 17:58:50,995 - agent - INFO-system_prompt_builder_manager.py:103 - 构建长期记忆提示词
+2026-05-04 17:58:50,996 - agent - INFO-system_prompt_builder_manager.py:140 - 构建动态上下文提示词

@@ -1,0 +1,10 @@
+{
+  "id": "e0604c44",
+  "status": "completed",
+  "result": "OK",
+  "command": "python -c \"import os; os.makedirs('data', exist_ok=True); lines=['Summer','','Summer arrives with a passionate brilliance, like a bold brushstroke on the canvas of time, bright and dazzling, quietly and unexpectedly filling every corner of the world.','']; f=open('data/english.txt','w',encoding='utf-8'); f.write(chr(10).join(lines)); f.close(); print('OK')\"",
+  "started_at": 1777877555.3765974,
+  "finished_at": 1777877555.4713044,
+  "result_preview": "OK",
+  "output_file": ".runtime-tasks\\e0604c44.log"
+}

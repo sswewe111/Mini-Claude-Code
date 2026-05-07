@@ -1,0 +1,1170 @@
+Volume in drive D is Data
+ Volume Serial Number is 0EE6-DDD6
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code
+
+2026/05/05  15:19    <DIR>          .
+2026/05/05  15:19    <DIR>          ..
+2026/04/28  14:11               157 .env
+2026/05/04  13:20    <DIR>          .memory
+2026/05/05  14:56    <DIR>          .runtime-tasks
+2026/05/05  14:49    <DIR>          .tasks
+2026/04/29  11:12    <DIR>          .task_outputs
+2026/05/05  15:19    <DIR>          .team
+2026/04/29  11:13    <DIR>          .transcripts
+2026/04/28  11:48    <DIR>          .vscode
+2026/05/03  14:10    <DIR>          agent loop past
+2026/05/05  15:25            11,083 agent_loop.py
+2026/05/03  17:24    <DIR>          configs
+2026/05/04  14:52    <DIR>          data
+2026/05/05  15:25    <DIR>          logs
+2026/05/05  13:51    <DIR>          manager
+2026/05/05  14:48               137 MEMORY.md
+2026/04/28  16:50                 0 README.md
+2026/04/28  21:01    <DIR>          skills
+2026/04/28  13:59    <DIR>          state
+2026/04/28  20:13    <DIR>          subagent
+2026/05/05  14:00             2,419 system_prompt.py
+2026/05/05  14:30    <DIR>          tools
+2026/05/05  14:44            14,480 tools_configs.py
+2026/05/05  14:41             2,960 tools_handlers.py
+2026/05/05  14:05    <DIR>          utils
+2026/05/05  14:46    <DIR>          __pycache__
+               7 File(s)         31,236 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\.memory
+
+2026/05/04  13:20    <DIR>          .
+2026/05/04  13:20    <DIR>          ..
+2026/05/03  17:00               239 prefer_bash_for_file_ops.md
+2026/05/03  17:00               261 prefer_python_file_operations.md
+2026/05/03  17:00               234 prefer_python_file_ops.md
+2026/05/05  14:48               934 read_file_content_summary.md
+               4 File(s)          1,668 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\.runtime-tasks
+
+2026/05/05  14:56    <DIR>          .
+2026/05/05  14:56    <DIR>          ..
+2026/05/04  14:51             2,839 40418dd8.json
+2026/05/04  14:51                11 40418dd8.log
+2026/05/05  14:56               386 4c1f1199.json
+2026/05/05  14:56                62 4c1f1199.log
+2026/05/04  14:52             2,956 4ce81a1c.json
+2026/05/04  14:52                11 4ce81a1c.log
+2026/05/04  14:52               261 7ea5ec20.json
+2026/05/04  14:52                 4 7ea5ec20.log
+2026/05/04  14:52             2,974 832448ae.json
+2026/05/04  14:52                11 832448ae.log
+2026/05/04  14:50             5,663 94f37e1c.json
+2026/05/04  14:50                11 94f37e1c.log
+2026/05/04  14:52             2,838 a8540361.json
+2026/05/04  14:52                11 a8540361.log
+2026/05/05  14:56               242 bd325565.json
+2026/05/04  14:52               600 e0604c44.json
+2026/05/04  14:52                 2 e0604c44.log
+2026/05/04  14:52               498 fff6a840.json
+2026/05/04  14:52                45 fff6a840.log
+              19 File(s)         19,425 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\.tasks
+
+2026/05/05  14:49    <DIR>          .
+2026/05/05  14:49    <DIR>          ..
+2026/05/04  14:40               441 task_1.json
+2026/05/04  17:40               301 task_10.json
+2026/05/04  17:40               238 task_11.json
+2026/05/04  17:40               368 task_12.json
+2026/05/04  17:41               312 task_13.json
+2026/05/04  17:48               551 task_14.json
+2026/05/04  17:48               523 task_15.json
+2026/05/04  17:49               489 task_16.json
+2026/05/04  17:49               492 task_17.json
+2026/05/04  17:49               491 task_18.json
+2026/05/04  17:49               575 task_19.json
+2026/05/04  17:32               476 task_2.json
+2026/05/04  17:49               575 task_20.json
+2026/05/04  17:49               575 task_21.json
+2026/05/04  17:49               575 task_22.json
+2026/05/04  17:49               591 task_23.json
+2026/05/04  17:49               549 task_24.json
+2026/05/04  17:54               489 task_25.json
+2026/05/04  17:54               419 task_26.json
+2026/05/04  17:54               435 task_27.json
+2026/05/04  17:54               435 task_28.json
+2026/05/04  17:55               439 task_29.json
+2026/05/04  17:33               448 task_3.json
+2026/05/04  17:55               334 task_30.json
+2026/05/04  17:57               477 task_31.json
+2026/05/04  17:57               420 task_32.json
+2026/05/04  17:57               451 task_33.json
+2026/05/04  17:58               399 task_34.json
+2026/05/04  17:58               281 task_35.json
+2026/05/04  17:58               409 task_36.json
+2026/05/05  14:46               301 task_37.json
+2026/05/05  14:46               266 task_38.json
+2026/05/05  14:46               373 task_39.json
+2026/05/04  17:32               428 task_4.json
+2026/05/05  14:47               467 task_40.json
+2026/05/05  14:48               350 task_41.json
+2026/05/05  14:48               425 task_42.json
+2026/05/05  14:49               313 task_43.json
+2026/05/05  14:49               266 task_44.json
+2026/05/05  14:49               315 task_45.json
+2026/05/04  17:33               443 task_5.json
+2026/05/04  17:33               326 task_6.json
+2026/05/04  17:34               472 task_7.json
+2026/05/04  17:35               422 task_8.json
+2026/05/04  17:35               446 task_9.json
+              45 File(s)         19,171 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\.task_outputs
+
+2026/04/29  11:12    <DIR>          .
+2026/04/29  11:12    <DIR>          ..
+2026/05/05  15:19    <DIR>          tool-results
+               0 File(s)              0 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\.task_outputs\tool-results
+
+2026/05/05  15:19    <DIR>          .
+2026/05/05  15:19    <DIR>          ..
+2026/05/05  15:19            57,420 chatcmpl-tool-8acd5dcce7dd76d6.txt
+2026/05/05  15:10            57,205 chatcmpl-tool-8e5bd5535f1c047a.txt
+2026/05/05  15:10            57,003 chatcmpl-tool-a29dfd79c1d3a5bf.txt
+2026/04/29  11:13             3,865 chatcmpl-tool-a3c1bc11502e9ca1.txt
+2026/04/29  11:12             1,105 chatcmpl-tool-a9c441fbd2682469.txt
+2026/04/29  11:12                 0 chatcmpl-tool-ac44df6dea88aa82.txt
+2026/04/29  11:13             3,840 chatcmpl-tool-adc37d26a8da4954.txt
+2026/04/29  11:12             1,171 chatcmpl-tool-b61f2e2db74cb08e.txt
+2026/05/05  14:49            55,820 chatcmpl-tool-b696ba2ec5e70b10.txt
+               9 File(s)        237,429 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\.team
+
+2026/05/05  15:19    <DIR>          .
+2026/05/05  15:19    <DIR>          ..
+2026/05/05  15:25               301 config.json
+2026/05/05  15:19    <DIR>          inbox
+2026/05/05  15:19    <DIR>          requests
+               1 File(s)            301 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\.team\inbox
+
+2026/05/05  15:19    <DIR>          .
+2026/05/05  15:19    <DIR>          ..
+2026/05/05  15:25                 0 lead.jsonl
+               1 File(s)              0 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\.team\requests
+
+2026/05/05  15:19    <DIR>          .
+2026/05/05  15:19    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\.transcripts
+
+2026/04/29  11:13    <DIR>          .
+2026/04/29  11:13    <DIR>          ..
+2026/04/29  11:13            23,893 transcript_1777432386.jsonl
+               1 File(s)         23,893 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\.vscode
+
+2026/04/28  11:48    <DIR>          .
+2026/04/28  11:48    <DIR>          ..
+2026/04/28  11:48               135 settings.json
+               1 File(s)            135 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\agent loop past
+
+2026/05/03  14:10    <DIR>          .
+2026/05/03  14:10    <DIR>          ..
+2026/05/03  14:10             6,654 agent_loop_permission.py
+               1 File(s)          6,654 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\configs
+
+2026/05/03  17:24    <DIR>          .
+2026/05/03  17:24    <DIR>          ..
+2026/04/30  10:34               474 compact_config.yml
+2026/05/03  15:39               260 memory_config.yml
+2026/04/30  15:29               936 permission_config.yml
+2026/05/03  17:36               335 recovery_config.yml
+2026/04/28  16:40                25 todo_manager.yml
+               5 File(s)          2,030 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\data
+
+2026/05/04  14:52    <DIR>          .
+2026/05/04  14:52    <DIR>          ..
+2026/05/04  14:52             2,451 english.txt
+2026/05/03  14:22             4,040 read_file.txt
+2026/04/28  21:14            12,273 read_text.docx
+2026/05/04  14:51                 8 test_write.txt
+2026/04/28  21:23    <DIR>          unpacked
+               4 File(s)         18,772 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\data\unpacked
+
+2026/04/28  21:23    <DIR>          .
+2026/04/28  21:23    <DIR>          ..
+2026/04/28  21:23    <DIR>          docProps
+2026/04/28  21:23    <DIR>          word
+2026/04/28  21:23             1,339 [Content_Types].xml
+2026/04/28  21:23    <DIR>          _rels
+               1 File(s)          1,339 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\data\unpacked\docProps
+
+2026/04/28  21:23    <DIR>          .
+2026/04/28  21:23    <DIR>          ..
+2026/04/28  21:23               754 app.xml
+2026/04/28  21:23               721 core.xml
+               2 File(s)          1,475 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\data\unpacked\word
+
+2026/04/28  21:23    <DIR>          .
+2026/04/28  21:23    <DIR>          ..
+2026/04/28  21:23             3,501 document.xml
+2026/04/28  21:23             1,886 fontTable.xml
+2026/04/28  21:23             3,426 settings.xml
+2026/04/28  21:23            31,756 styles.xml
+2026/04/28  21:23    <DIR>          theme
+2026/04/28  21:23               650 webSettings.xml
+2026/04/28  21:23    <DIR>          _rels
+               5 File(s)         41,219 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\data\unpacked\word\theme
+
+2026/04/28  21:23    <DIR>          .
+2026/04/28  21:23    <DIR>          ..
+2026/04/28  21:23            11,653 theme1.xml
+               1 File(s)         11,653 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\data\unpacked\word\_rels
+
+2026/04/28  21:23    <DIR>          .
+2026/04/28  21:23    <DIR>          ..
+2026/04/28  21:23               824 document.xml.rels
+               1 File(s)            824 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\data\unpacked\_rels
+
+2026/04/28  21:23    <DIR>          .
+2026/04/28  21:23    <DIR>          ..
+2026/04/28  21:23               589 .rels
+               1 File(s)            589 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\logs
+
+2026/05/05  15:25    <DIR>          .
+2026/05/05  15:25    <DIR>          ..
+2026/05/03  14:22               149 agent_2026-05-03_14-20.log
+2026/05/03  15:39               189 agent_2026-05-03_15-35.log
+2026/05/03  15:44               843 agent_2026-05-03_15-40.log
+2026/05/03  15:45               553 agent_2026-05-03_15-45.log
+2026/05/03  15:50               506 agent_2026-05-03_15-50.log
+2026/05/03  16:49            22,547 agent_2026-05-03_16-45.log
+2026/05/03  16:52            46,251 agent_2026-05-03_16-50.log
+2026/05/03  16:59             1,554 agent_2026-05-03_16-55.log
+2026/05/03  17:02             1,569 agent_2026-05-03_17-00.log
+2026/05/03  17:32                 0 agent_2026-05-03_17-30.log
+2026/05/03  17:36             1,363 agent_2026-05-03_17-35.log
+2026/05/03  17:42             1,363 agent_2026-05-03_17-40.log
+2026/05/03  17:59             9,347 agent_2026-05-03_17-55.log
+2026/05/03  18:04             1,266 agent_2026-05-03_18-00.log
+2026/05/03  18:06             5,680 agent_2026-05-03_18-05.log
+2026/05/04  13:14             2,726 agent_2026-05-04_13-10.log
+2026/05/04  13:17             5,116 agent_2026-05-04_13-15.log
+2026/05/04  13:24             4,674 agent_2026-05-04_13-20.log
+2026/05/04  13:25             2,369 agent_2026-05-04_13-25.log
+2026/05/04  13:59             3,524 agent_2026-05-04_13-55.log
+2026/05/04  14:03            10,654 agent_2026-05-04_14-00.log
+2026/05/04  14:39             5,446 agent_2026-05-04_14-35.log
+2026/05/04  14:42            11,980 agent_2026-05-04_14-40.log
+2026/05/04  14:47             2,369 agent_2026-05-04_14-45.log
+2026/05/04  14:52            20,648 agent_2026-05-04_14-50.log
+2026/05/04  15:45             3,621 agent_2026-05-04_15-45.log
+2026/05/04  17:34            13,296 agent_2026-05-04_17-30.log
+2026/05/04  17:35            11,921 agent_2026-05-04_17-35.log
+2026/05/04  17:41             9,414 agent_2026-05-04_17-40.log
+2026/05/04  17:49            10,320 agent_2026-05-04_17-45.log
+2026/05/04  17:54             5,975 agent_2026-05-04_17-50.log
+2026/05/04  17:58            15,515 agent_2026-05-04_17-55.log
+2026/05/05  14:49            14,489 agent_2026-05-05_14-45.log
+2026/05/05  14:54            12,190 agent_2026-05-05_14-50.log
+2026/05/05  14:56             6,741 agent_2026-05-05_14-55.log
+2026/05/05  15:01             7,155 agent_2026-05-05_15-00.log
+2026/05/05  15:10             3,864 agent_2026-05-05_15-10.log
+2026/05/05  15:19             7,286 agent_2026-05-05_15-15.log
+2026/05/05  15:20               678 agent_2026-05-05_15-20.log
+2026/05/05  15:25               685 agent_2026-05-05_15-25.log
+2026/05/03  14:22             8,930 messages_run_2026-05-03_14-22-31_19040.jsonl
+2026/05/03  15:39            10,755 messages_run_2026-05-03_15-39-00_7120.jsonl
+2026/05/03  15:40             1,099 messages_run_2026-05-03_15-40-22_16780.jsonl
+2026/05/03  15:42             2,478 messages_run_2026-05-03_15-42-17_16524.jsonl
+2026/05/03  15:43               771 messages_run_2026-05-03_15-42-59_10068.jsonl
+2026/05/03  15:43               799 messages_run_2026-05-03_15-43-23_20064.jsonl
+2026/05/03  15:44            18,469 messages_run_2026-05-03_15-44-32_21452.jsonl
+2026/05/03  15:45             8,570 messages_run_2026-05-03_15-45-16_20640.jsonl
+2026/05/03  15:50            16,004 messages_run_2026-05-03_15-50-08_19700.jsonl
+2026/05/03  15:50            30,552 messages_run_2026-05-03_15-50-25_20540.jsonl
+2026/05/03  16:50            25,826 messages_run_2026-05-03_16-49-54_16524.jsonl
+2026/05/03  17:02             6,976 messages_run_2026-05-03_17-02-48_4692.jsonl
+2026/05/03  17:36             6,987 messages_run_2026-05-03_17-36-31_5284.jsonl
+2026/05/03  17:42             7,115 messages_run_2026-05-03_17-42-08_23520.jsonl
+2026/05/03  17:57             6,791 messages_run_2026-05-03_17-57-14_14744.jsonl
+2026/05/03  17:57             6,930 messages_run_2026-05-03_17-57-39_1492.jsonl
+2026/05/03  17:58             5,744 messages_run_2026-05-03_17-58-01_12668.jsonl
+2026/05/03  17:58               231 messages_run_2026-05-03_17-58-31_7036.jsonl
+2026/05/03  17:58               231 messages_run_2026-05-03_17-58-45_11648.jsonl
+2026/05/03  17:59             7,677 messages_run_2026-05-03_17-58-56_20760.jsonl
+2026/05/03  17:59             6,649 messages_run_2026-05-03_17-59-18_21484.jsonl
+2026/05/03  18:00               231 messages_run_2026-05-03_18-00-36_22592.jsonl
+2026/05/03  18:00               231 messages_run_2026-05-03_18-00-55_5700.jsonl
+2026/05/03  18:04               231 messages_run_2026-05-03_18-04-20_17416.jsonl
+2026/05/03  18:05               924 messages_run_2026-05-03_18-05-30_10192.jsonl
+2026/05/03  18:06             6,984 messages_run_2026-05-03_18-06-03_12668.jsonl
+2026/05/03  18:06             7,371 messages_run_2026-05-03_18-06-34_22588.jsonl
+2026/05/04  13:13             6,667 messages_run_2026-05-04_13-13-42_21196.jsonl
+2026/05/04  13:14             6,940 messages_run_2026-05-04_13-14-10_10104.jsonl
+2026/05/04  13:15             7,807 messages_run_2026-05-04_13-15-12_2920.jsonl
+2026/05/04  13:17             7,422 messages_run_2026-05-04_13-16-53_23756.jsonl
+2026/05/04  13:17             7,364 messages_run_2026-05-04_13-17-12_22120.jsonl
+2026/05/04  13:20             8,866 messages_run_2026-05-04_13-20-05_27816.jsonl
+2026/05/04  13:24             7,582 messages_run_2026-05-04_13-24-36_17920.jsonl
+2026/05/04  13:25             7,294 messages_run_2026-05-04_13-25-23_24420.jsonl
+2026/05/04  13:59             8,129 messages_run_2026-05-04_13-59-36_23056.jsonl
+2026/05/04  14:01            30,451 messages_run_2026-05-04_14-00-38_27408.jsonl
+2026/05/04  14:03             8,791 messages_run_2026-05-04_14-02-53_12768.jsonl
+2026/05/04  14:40            21,761 messages_run_2026-05-04_14-39-38_25608.jsonl
+2026/05/04  14:41            11,549 messages_run_2026-05-04_14-41-05_2256.jsonl
+2026/05/04  14:47            11,984 messages_run_2026-05-04_14-47-16_26812.jsonl
+2026/05/04  14:52            78,826 messages_run_2026-05-04_14-50-20_19236.jsonl
+2026/05/04  15:45             9,774 messages_run_2026-05-04_15-45-25_29108.jsonl
+2026/05/04  17:33            54,141 messages_run_2026-05-04_17-32-45_17144.jsonl
+2026/05/04  17:35            55,507 messages_run_2026-05-04_17-34-48_29800.jsonl
+2026/05/04  17:41            49,066 messages_run_2026-05-04_17-40-38_21080.jsonl
+2026/05/04  17:49            52,801 messages_run_2026-05-04_17-48-53_27468.jsonl
+2026/05/04  17:55            54,954 messages_run_2026-05-04_17-54-25_28340.jsonl
+2026/05/04  17:57             4,502 messages_run_2026-05-04_17-57-31_3648.jsonl
+2026/05/04  17:59            62,055 messages_run_2026-05-04_17-58-01_24720.jsonl
+2026/05/05  14:46             4,484 messages_run_2026-05-05_14-46-16_17056.jsonl
+2026/05/05  14:48            42,516 messages_run_2026-05-05_14-47-44_28404.jsonl
+2026/05/05  14:50            25,975 messages_run_2026-05-05_14-49-35_21760.jsonl
+2026/05/05  14:51            19,884 messages_run_2026-05-05_14-50-44_26188.jsonl
+2026/05/05  14:56            13,330 messages_run_2026-05-05_14-54-49_31192.jsonl
+2026/05/05  15:01            52,804 messages_run_2026-05-05_15-00-46_29576.jsonl
+2026/05/05  15:11            17,969 messages_run_2026-05-05_15-10-39_31068.jsonl
+2026/05/05  15:20            20,577 messages_run_2026-05-05_15-19-36_3112.jsonl
+2026/05/05  15:25             2,320 messages_run_2026-05-05_15-25-50_31124.jsonl
+              99 File(s)      1,255,484 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\manager
+
+2026/05/05  13:51    <DIR>          .
+2026/05/05  13:51    <DIR>          ..
+2026/05/04  14:50             6,777 background_manager.py
+2026/05/04  15:41            11,235 cron_scheduler_manager.py
+2026/05/04  13:23             5,514 memory_manager.py
+2026/05/03  17:32             2,334 recovery_manager.py
+2026/05/05  14:25    <DIR>          sub_tools
+2026/05/04  13:40             6,510 system_prompt_builder_manager.py
+2026/05/04  13:53             4,725 task_manager.py
+2026/05/05  15:10             7,664 teammate_manager.py
+2026/05/05  15:10    <DIR>          __pycache__
+               7 File(s)         44,759 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\manager\sub_tools
+
+2026/05/05  14:25    <DIR>          .
+2026/05/05  14:25    <DIR>          ..
+2026/05/05  14:25             3,913 tools_config.py
+2026/05/05  14:38               940 tools_handlers.py
+2026/05/05  14:46    <DIR>          __pycache__
+               2 File(s)          4,853 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\manager\sub_tools\__pycache__
+
+2026/05/05  14:46    <DIR>          .
+2026/05/05  14:46    <DIR>          ..
+2026/05/05  14:46             1,421 tools_config.cpython-310.pyc
+2026/05/05  14:25             1,390 tools_config.cpython-38.pyc
+2026/05/05  14:46             1,575 tools_handlers.cpython-310.pyc
+               3 File(s)          4,386 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\manager\__pycache__
+
+2026/05/05  15:10    <DIR>          .
+2026/05/05  15:10    <DIR>          ..
+2026/05/04  14:50             5,902 background_manager.cpython-310.pyc
+2026/05/04  15:45             8,484 cron_scheduler_manager.cpython-310.pyc
+2026/05/04  13:24             3,890 memory_manager.cpython-310.pyc
+2026/05/03  17:57             2,279 recovery_manager.cpython-310.pyc
+2026/05/04  13:59             4,935 system_prompt_builder_manager.cpython-310.pyc
+2026/05/04  13:24             4,903 system_prompt_builder_manager.cpython-38.pyc
+2026/05/04  13:59             3,770 task_manager.cpython-310.pyc
+2026/05/05  15:10             5,429 teammate_manager.cpython-310.pyc
+2026/05/04  17:11             5,930 teammate_manager.cpython-38.pyc
+               9 File(s)         45,522 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills
+
+2026/04/28  21:01    <DIR>          .
+2026/04/28  21:01    <DIR>          ..
+2026/04/28  10:50    <DIR>          docx
+2026/04/28  10:50    <DIR>          frontend-design
+2026/04/28  10:50    <DIR>          pdf
+2026/04/28  10:57    <DIR>          pptx
+2026/04/28  10:50    <DIR>          web-access
+2026/04/28  10:50    <DIR>          xlsx
+               0 File(s)              0 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\docx
+
+2026/04/28  10:50    <DIR>          .
+2026/04/28  10:50    <DIR>          ..
+2026/04/21  08:41             1,467 LICENSE.txt
+2026/04/21  08:41    <DIR>          scripts
+2026/04/21  08:41            20,084 SKILL.md
+               2 File(s)         21,551 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\docx\scripts
+
+2026/04/21  08:41    <DIR>          .
+2026/04/21  08:41    <DIR>          ..
+2026/04/21  08:41             4,051 accept_changes.py
+2026/04/21  08:41            10,694 comment.py
+2026/04/21  08:41    <DIR>          office
+2026/04/21  08:41    <DIR>          templates
+2026/04/21  08:41                 1 __init__.py
+               3 File(s)         14,746 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\docx\scripts\office
+
+2026/04/21  08:41    <DIR>          .
+2026/04/21  08:41    <DIR>          ..
+2026/04/28  21:23    <DIR>          helpers
+2026/04/21  08:41             4,991 pack.py
+2026/04/21  08:41    <DIR>          schemas
+2026/04/21  08:41             5,301 soffice.py
+2026/04/21  08:41             4,052 unpack.py
+2026/04/21  08:41             3,668 validate.py
+2026/04/21  08:41    <DIR>          validators
+               4 File(s)         18,012 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\docx\scripts\office\helpers
+
+2026/04/28  21:23    <DIR>          .
+2026/04/28  21:23    <DIR>          ..
+2026/04/21  08:41             5,567 merge_runs.py
+2026/04/21  08:41             5,754 simplify_redlines.py
+2026/04/21  08:41                 0 __init__.py
+2026/04/28  21:23    <DIR>          __pycache__
+               3 File(s)         11,321 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\docx\scripts\office\helpers\__pycache__
+
+2026/04/28  21:23    <DIR>          .
+2026/04/28  21:23    <DIR>          ..
+2026/04/28  21:23             5,341 merge_runs.cpython-310.pyc
+2026/04/28  21:23             5,503 simplify_redlines.cpython-310.pyc
+2026/04/28  21:23               194 __init__.cpython-310.pyc
+               3 File(s)         11,038 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\docx\scripts\office\schemas
+
+2026/04/21  08:41    <DIR>          .
+2026/04/21  08:41    <DIR>          ..
+2026/04/21  08:41    <DIR>          ecma
+2026/04/21  08:41    <DIR>          ISO-IEC29500-4_2016
+2026/04/21  08:41    <DIR>          mce
+2026/04/21  08:41    <DIR>          microsoft
+               0 File(s)              0 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\docx\scripts\office\schemas\ecma
+
+2026/04/21  08:41    <DIR>          .
+2026/04/21  08:41    <DIR>          ..
+2026/04/21  08:41    <DIR>          fouth-edition
+               0 File(s)              0 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\docx\scripts\office\schemas\ecma\fouth-edition
+
+2026/04/21  08:41    <DIR>          .
+2026/04/21  08:41    <DIR>          ..
+2026/04/21  08:41             1,963 opc-contentTypes.xsd
+2026/04/21  08:41             2,515 opc-coreProperties.xsd
+2026/04/21  08:41             2,856 opc-digSig.xsd
+2026/04/21  08:41             1,344 opc-relationships.xsd
+               4 File(s)          8,678 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\docx\scripts\office\schemas\ISO-IEC29500-4_2016
+
+2026/04/21  08:41    <DIR>          .
+2026/04/21  08:41    <DIR>          ..
+2026/04/21  08:41            74,984 dml-chart.xsd
+2026/04/21  08:41             6,956 dml-chartDrawing.xsd
+2026/04/21  08:41            51,302 dml-diagram.xsd
+2026/04/21  08:41               624 dml-lockedCanvas.xsd
+2026/04/21  08:41           152,039 dml-main.xsd
+2026/04/21  08:41             1,231 dml-picture.xsd
+2026/04/21  08:41             8,862 dml-spreadsheetDrawing.xsd
+2026/04/21  08:41            14,795 dml-wordprocessingDrawing.xsd
+2026/04/21  08:41            83,612 pml.xsd
+2026/04/21  08:41             1,269 shared-additionalCharacteristics.xsd
+2026/04/21  08:41             7,328 shared-bibliography.xsd
+2026/04/21  08:41             6,382 shared-commonSimpleTypes.xsd
+2026/04/21  08:41             1,248 shared-customXmlDataProperties.xsd
+2026/04/21  08:41               880 shared-customXmlSchemaProperties.xsd
+2026/04/21  08:41             2,608 shared-documentPropertiesCustom.xsd
+2026/04/21  08:41             3,507 shared-documentPropertiesExtended.xsd
+2026/04/21  08:41             7,507 shared-documentPropertiesVariantTypes.xsd
+2026/04/21  08:41            23,313 shared-math.xsd
+2026/04/21  08:41             1,367 shared-relationshipReference.xsd
+2026/04/21  08:41           242,277 sml.xsd
+2026/04/21  08:41            26,148 vml-main.xsd
+2026/04/21  08:41            25,279 vml-officeDrawing.xsd
+2026/04/21  08:41               535 vml-presentationDrawing.xsd
+2026/04/21  08:41             5,712 vml-spreadsheetDrawing.xsd
+2026/04/21  08:41             4,010 vml-wordprocessingDrawing.xsd
+2026/04/21  08:41           171,367 wml.xsd
+2026/04/21  08:41             4,646 xml.xsd
+              27 File(s)        929,788 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\docx\scripts\office\schemas\mce
+
+2026/04/21  08:41    <DIR>          .
+2026/04/21  08:41    <DIR>          ..
+2026/04/21  08:41             3,127 mc.xsd
+               1 File(s)          3,127 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\docx\scripts\office\schemas\microsoft
+
+2026/04/21  08:41    <DIR>          .
+2026/04/21  08:41    <DIR>          ..
+2026/04/21  08:41            26,549 wml-2010.xsd
+2026/04/21  08:41             3,745 wml-2012.xsd
+2026/04/21  08:41               901 wml-2018.xsd
+2026/04/21  08:41             1,778 wml-cex-2018.xsd
+2026/04/21  08:41             1,002 wml-cid-2016.xsd
+2026/04/21  08:41               600 wml-sdtdatahash-2020.xsd
+2026/04/21  08:41               745 wml-symex-2015.xsd
+               7 File(s)         35,320 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\docx\scripts\office\validators
+
+2026/04/21  08:41    <DIR>          .
+2026/04/21  08:41    <DIR>          ..
+2026/04/21  08:41            32,651 base.py
+2026/04/21  08:41            16,376 docx.py
+2026/04/21  08:41             9,824 pptx.py
+2026/04/21  08:41             8,918 redlining.py
+2026/04/21  08:41               336 __init__.py
+               5 File(s)         68,105 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\docx\scripts\templates
+
+2026/04/21  08:41    <DIR>          .
+2026/04/21  08:41    <DIR>          ..
+2026/04/21  08:41             2,603 comments.xml
+2026/04/21  08:41             2,611 commentsExtended.xml
+2026/04/21  08:41             2,707 commentsExtensible.xml
+2026/04/21  08:41             2,619 commentsIds.xml
+2026/04/21  08:41               115 people.xml
+               5 File(s)         10,655 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\frontend-design
+
+2026/04/28  10:50    <DIR>          .
+2026/04/28  10:50    <DIR>          ..
+2026/04/21  08:40             3,823 SKILL.md
+               1 File(s)          3,823 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\pdf
+
+2026/04/28  10:50    <DIR>          .
+2026/04/28  10:50    <DIR>          ..
+2026/04/21  05:38            11,854 forms.md
+2026/04/21  05:38             1,467 LICENSE.txt
+2026/04/21  05:38            16,692 reference.md
+2026/04/21  16:46    <DIR>          scripts
+2026/04/21  05:38             8,072 SKILL.md
+               4 File(s)         38,085 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\pdf\scripts
+
+2026/04/21  16:46    <DIR>          .
+2026/04/21  16:46    <DIR>          ..
+2026/04/21  05:38             2,774 check_bounding_boxes.py
+2026/04/21  05:38               268 check_fillable_fields.py
+2026/04/21  05:38             1,008 convert_pdf_to_images.py
+2026/04/21  05:38             1,258 create_validation_image.py
+2026/04/21  05:38             4,300 extract_form_field_info.py
+2026/04/21  05:38             3,945 extract_form_structure.py
+2026/04/21  05:38             3,819 fill_fillable_fields.py
+2026/04/21  05:38             3,235 fill_pdf_form_with_annotations.py
+               8 File(s)         20,607 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\pptx
+
+2026/04/28  10:57    <DIR>          .
+2026/04/28  10:57    <DIR>          ..
+2026/04/21  05:38             6,885 editing.md
+2026/04/21  05:38             1,467 LICENSE.txt
+2026/04/21  05:38            12,819 pptxgenjs.md
+2026/04/21  16:46    <DIR>          scripts
+2026/04/21  05:38             9,182 SKILL.md
+               4 File(s)         30,353 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\pptx\scripts
+
+2026/04/21  16:46    <DIR>          .
+2026/04/21  16:46    <DIR>          ..
+2026/04/21  05:38             6,872 add_slide.py
+2026/04/21  05:38             9,583 clean.py
+2026/04/21  16:46    <DIR>          office
+2026/04/21  05:38             8,785 thumbnail.py
+2026/04/21  05:38                 0 __init__.py
+               4 File(s)         25,240 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\pptx\scripts\office
+
+2026/04/21  16:46    <DIR>          .
+2026/04/21  16:46    <DIR>          ..
+2026/04/21  16:46    <DIR>          helpers
+2026/04/21  05:38             4,991 pack.py
+2026/04/21  16:46    <DIR>          schemas
+2026/04/21  05:38             5,301 soffice.py
+2026/04/21  05:38             4,052 unpack.py
+2026/04/21  05:38             3,668 validate.py
+2026/04/21  16:46    <DIR>          validators
+               4 File(s)         18,012 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\pptx\scripts\office\helpers
+
+2026/04/21  16:46    <DIR>          .
+2026/04/21  16:46    <DIR>          ..
+2026/04/21  05:38             5,567 merge_runs.py
+2026/04/21  05:38             5,754 simplify_redlines.py
+2026/04/21  05:38                 0 __init__.py
+               3 File(s)         11,321 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\pptx\scripts\office\schemas
+
+2026/04/21  16:46    <DIR>          .
+2026/04/21  16:46    <DIR>          ..
+2026/04/21  16:46    <DIR>          ecma
+2026/04/21  16:46    <DIR>          ISO-IEC29500-4_2016
+2026/04/21  16:46    <DIR>          mce
+2026/04/21  16:46    <DIR>          microsoft
+               0 File(s)              0 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\pptx\scripts\office\schemas\ecma
+
+2026/04/21  16:46    <DIR>          .
+2026/04/21  16:46    <DIR>          ..
+2026/04/21  16:46    <DIR>          fouth-edition
+               0 File(s)              0 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\pptx\scripts\office\schemas\ecma\fouth-edition
+
+2026/04/21  16:46    <DIR>          .
+2026/04/21  16:46    <DIR>          ..
+2026/04/21  05:38             1,963 opc-contentTypes.xsd
+2026/04/21  05:38             2,515 opc-coreProperties.xsd
+2026/04/21  05:38             2,856 opc-digSig.xsd
+2026/04/21  05:38             1,344 opc-relationships.xsd
+               4 File(s)          8,678 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\pptx\scripts\office\schemas\ISO-IEC29500-4_2016
+
+2026/04/21  16:46    <DIR>          .
+2026/04/21  16:46    <DIR>          ..
+2026/04/21  05:38            74,984 dml-chart.xsd
+2026/04/21  05:38             6,956 dml-chartDrawing.xsd
+2026/04/21  05:38            51,302 dml-diagram.xsd
+2026/04/21  05:38               624 dml-lockedCanvas.xsd
+2026/04/21  05:38           152,039 dml-main.xsd
+2026/04/21  05:38             1,231 dml-picture.xsd
+2026/04/21  05:38             8,862 dml-spreadsheetDrawing.xsd
+2026/04/21  05:38            14,795 dml-wordprocessingDrawing.xsd
+2026/04/21  05:38            83,612 pml.xsd
+2026/04/21  05:38             1,269 shared-additionalCharacteristics.xsd
+2026/04/21  05:38             7,328 shared-bibliography.xsd
+2026/04/21  05:38             6,382 shared-commonSimpleTypes.xsd
+2026/04/21  05:38             1,248 shared-customXmlDataProperties.xsd
+2026/04/21  05:38               880 shared-customXmlSchemaProperties.xsd
+2026/04/21  05:38             2,608 shared-documentPropertiesCustom.xsd
+2026/04/21  05:38             3,507 shared-documentPropertiesExtended.xsd
+2026/04/21  05:38             7,507 shared-documentPropertiesVariantTypes.xsd
+2026/04/21  05:38            23,313 shared-math.xsd
+2026/04/21  05:38             1,367 shared-relationshipReference.xsd
+2026/04/21  05:38           242,277 sml.xsd
+2026/04/21  05:38            26,148 vml-main.xsd
+2026/04/21  05:38            25,279 vml-officeDrawing.xsd
+2026/04/21  05:38               535 vml-presentationDrawing.xsd
+2026/04/21  05:38             5,712 vml-spreadsheetDrawing.xsd
+2026/04/21  05:38             4,010 vml-wordprocessingDrawing.xsd
+2026/04/21  05:38           171,367 wml.xsd
+2026/04/21  05:38             4,646 xml.xsd
+              27 File(s)        929,788 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\pptx\scripts\office\schemas\mce
+
+2026/04/21  16:46    <DIR>          .
+2026/04/21  16:46    <DIR>          ..
+2026/04/21  05:38             3,127 mc.xsd
+               1 File(s)          3,127 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\pptx\scripts\office\schemas\microsoft
+
+2026/04/21  16:46    <DIR>          .
+2026/04/21  16:46    <DIR>          ..
+2026/04/21  05:38            26,549 wml-2010.xsd
+2026/04/21  05:38             3,745 wml-2012.xsd
+2026/04/21  05:38               901 wml-2018.xsd
+2026/04/21  05:38             1,778 wml-cex-2018.xsd
+2026/04/21  05:38             1,002 wml-cid-2016.xsd
+2026/04/21  05:38               600 wml-sdtdatahash-2020.xsd
+2026/04/21  05:38               745 wml-symex-2015.xsd
+               7 File(s)         35,320 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\pptx\scripts\office\validators
+
+2026/04/21  16:46    <DIR>          .
+2026/04/21  16:46    <DIR>          ..
+2026/04/21  05:38            32,651 base.py
+2026/04/21  05:38            16,376 docx.py
+2026/04/21  05:38             9,824 pptx.py
+2026/04/21  05:38             8,918 redlining.py
+2026/04/21  05:38               336 __init__.py
+               5 File(s)         68,105 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\web-access
+
+2026/04/28  10:50    <DIR>          .
+2026/04/28  10:50    <DIR>          ..
+2026/04/21  16:48    <DIR>          .claude-plugin
+2026/04/21  16:48                49 .gitignore
+2026/04/21  16:48             8,555 README.md
+2026/04/21  16:48    <DIR>          references
+2026/04/21  16:48    <DIR>          scripts
+2026/04/21  16:48            16,708 SKILL.md
+               3 File(s)         25,312 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\web-access\.claude-plugin
+
+2026/04/21  16:48    <DIR>          .
+2026/04/21  16:48    <DIR>          ..
+2026/04/21  16:48               481 marketplace.json
+2026/04/21  16:48               485 plugin.json
+               2 File(s)            966 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\web-access\.git
+
+2026/04/28  21:01               314 config
+2026/04/21  16:48                73 description
+2026/04/21  16:48                21 HEAD
+2026/04/21  16:48    <DIR>          hooks
+2026/04/21  16:48             1,162 index
+2026/04/21  16:48    <DIR>          info
+2026/04/21  16:48    <DIR>          logs
+2026/04/21  16:48    <DIR>          objects
+2026/04/21  16:48               112 packed-refs
+2026/04/21  16:48    <DIR>          refs
+               5 File(s)          1,682 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\web-access\.git\hooks
+
+2026/04/21  16:48    <DIR>          .
+2026/04/21  16:48    <DIR>          ..
+2026/04/21  16:48               478 applypatch-msg.sample
+2026/04/21  16:48               896 commit-msg.sample
+2026/04/21  16:48             4,726 fsmonitor-watchman.sample
+2026/04/21  16:48               189 post-update.sample
+2026/04/21  16:48               424 pre-applypatch.sample
+2026/04/21  16:48             1,643 pre-commit.sample
+2026/04/21  16:48               416 pre-merge-commit.sample
+2026/04/21  16:48             1,374 pre-push.sample
+2026/04/21  16:48             4,898 pre-rebase.sample
+2026/04/21  16:48               544 pre-receive.sample
+2026/04/21  16:48             1,492 prepare-commit-msg.sample
+2026/04/21  16:48             2,783 push-to-checkout.sample
+2026/04/21  16:48             3,650 update.sample
+              13 File(s)         23,513 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\web-access\.git\info
+
+2026/04/21  16:48    <DIR>          .
+2026/04/21  16:48    <DIR>          ..
+2026/04/21  16:48               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\web-access\.git\logs
+
+2026/04/21  16:48    <DIR>          .
+2026/04/21  16:48    <DIR>          ..
+2026/04/21  16:48               179 HEAD
+2026/04/21  16:48    <DIR>          refs
+               1 File(s)            179 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\web-access\.git\logs\refs
+
+2026/04/21  16:48    <DIR>          .
+2026/04/21  16:48    <DIR>          ..
+2026/04/21  16:48    <DIR>          heads
+2026/04/21  16:48    <DIR>          remotes
+               0 File(s)              0 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\web-access\.git\logs\refs\heads
+
+2026/04/21  16:48    <DIR>          .
+2026/04/21  16:48    <DIR>          ..
+2026/04/21  16:48               179 main
+               1 File(s)            179 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\web-access\.git\logs\refs\remotes
+
+2026/04/21  16:48    <DIR>          .
+2026/04/21  16:48    <DIR>          ..
+2026/04/21  16:48    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\web-access\.git\logs\refs\remotes\origin
+
+2026/04/21  16:48    <DIR>          .
+2026/04/21  16:48    <DIR>          ..
+2026/04/21  16:48               179 HEAD
+               1 File(s)            179 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\web-access\.git\objects
+
+2026/04/21  16:48    <DIR>          .
+2026/04/21  16:48    <DIR>          ..
+2026/04/21  16:48    <DIR>          info
+2026/04/21  16:48    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\web-access\.git\objects\info
+
+2026/04/21  16:48    <DIR>          .
+2026/04/21  16:48    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\web-access\.git\objects\pack
+
+2026/04/21  16:48    <DIR>          .
+2026/04/21  16:48    <DIR>          ..
+2026/04/21  16:48             6,168 pack-0f7f8045127d491358b8e68f89a606ed9ebcbed9.idx
+2026/04/21  16:48            84,042 pack-0f7f8045127d491358b8e68f89a606ed9ebcbed9.pack
+               2 File(s)         90,210 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\web-access\.git\refs
+
+2026/04/21  16:48    <DIR>          .
+2026/04/21  16:48    <DIR>          ..
+2026/04/21  16:48    <DIR>          heads
+2026/04/21  16:48    <DIR>          remotes
+2026/04/21  16:48    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\web-access\.git\refs\heads
+
+2026/04/21  16:48    <DIR>          .
+2026/04/21  16:48    <DIR>          ..
+2026/04/21  16:48                41 main
+               1 File(s)             41 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\web-access\.git\refs\remotes
+
+2026/04/21  16:48    <DIR>          .
+2026/04/21  16:48    <DIR>          ..
+2026/04/21  16:48    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\web-access\.git\refs\remotes\origin
+
+2026/04/21  16:48    <DIR>          .
+2026/04/21  16:48    <DIR>          ..
+2026/04/21  16:48                30 HEAD
+               1 File(s)             30 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\web-access\.git\refs\tags
+
+2026/04/21  16:48    <DIR>          .
+2026/04/21  16:48    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\web-access\references
+
+2026/04/21  16:48    <DIR>          .
+2026/04/21  16:48    <DIR>          ..
+2026/04/21  16:48             3,913 cdp-api.md
+2026/04/21  16:48    <DIR>          site-patterns
+               1 File(s)          3,913 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\web-access\references\site-patterns
+
+2026/04/21  16:48    <DIR>          .
+2026/04/21  16:48    <DIR>          ..
+2026/04/21  16:48                 0 .gitkeep
+               1 File(s)              0 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\web-access\scripts
+
+2026/04/21  16:48    <DIR>          .
+2026/04/21  16:48    <DIR>          ..
+2026/04/21  16:48            22,070 cdp-proxy.mjs
+2026/04/21  16:48             5,353 check-deps.mjs
+2026/04/21  16:48             9,672 find-url.mjs
+2026/04/21  16:48             1,710 match-site.mjs
+               4 File(s)         38,805 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\xlsx
+
+2026/04/28  10:50    <DIR>          .
+2026/04/28  10:50    <DIR>          ..
+2026/04/21  05:38             1,467 LICENSE.txt
+2026/04/21  16:46    <DIR>          scripts
+2026/04/21  05:38            11,463 SKILL.md
+               2 File(s)         12,930 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\xlsx\scripts
+
+2026/04/21  16:46    <DIR>          .
+2026/04/21  16:46    <DIR>          ..
+2026/04/21  16:46    <DIR>          office
+2026/04/21  05:38             5,782 recalc.py
+               1 File(s)          5,782 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\xlsx\scripts\office
+
+2026/04/21  16:46    <DIR>          .
+2026/04/21  16:46    <DIR>          ..
+2026/04/21  16:46    <DIR>          helpers
+2026/04/21  05:38             4,991 pack.py
+2026/04/21  16:46    <DIR>          schemas
+2026/04/21  05:38             5,301 soffice.py
+2026/04/21  05:38             4,052 unpack.py
+2026/04/21  05:38             3,668 validate.py
+2026/04/21  16:46    <DIR>          validators
+               4 File(s)         18,012 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\xlsx\scripts\office\helpers
+
+2026/04/21  16:46    <DIR>          .
+2026/04/21  16:46    <DIR>          ..
+2026/04/21  05:38             5,567 merge_runs.py
+2026/04/21  05:38             5,754 simplify_redlines.py
+2026/04/21  05:38                 0 __init__.py
+               3 File(s)         11,321 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\xlsx\scripts\office\schemas
+
+2026/04/21  16:46    <DIR>          .
+2026/04/21  16:46    <DIR>          ..
+2026/04/21  16:46    <DIR>          ecma
+2026/04/21  16:46    <DIR>          ISO-IEC29500-4_2016
+2026/04/21  16:46    <DIR>          mce
+2026/04/21  16:46    <DIR>          microsoft
+               0 File(s)              0 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\xlsx\scripts\office\schemas\ecma
+
+2026/04/21  16:46    <DIR>          .
+2026/04/21  16:46    <DIR>          ..
+2026/04/21  16:46    <DIR>          fouth-edition
+               0 File(s)              0 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\xlsx\scripts\office\schemas\ecma\fouth-edition
+
+2026/04/21  16:46    <DIR>          .
+2026/04/21  16:46    <DIR>          ..
+2026/04/21  05:38             1,963 opc-contentTypes.xsd
+2026/04/21  05:38             2,515 opc-coreProperties.xsd
+2026/04/21  05:38             2,856 opc-digSig.xsd
+2026/04/21  05:38             1,344 opc-relationships.xsd
+               4 File(s)          8,678 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\xlsx\scripts\office\schemas\ISO-IEC29500-4_2016
+
+2026/04/21  16:46    <DIR>          .
+2026/04/21  16:46    <DIR>          ..
+2026/04/21  05:38            74,984 dml-chart.xsd
+2026/04/21  05:38             6,956 dml-chartDrawing.xsd
+2026/04/21  05:38            51,302 dml-diagram.xsd
+2026/04/21  05:38               624 dml-lockedCanvas.xsd
+2026/04/21  05:38           152,039 dml-main.xsd
+2026/04/21  05:38             1,231 dml-picture.xsd
+2026/04/21  05:38             8,862 dml-spreadsheetDrawing.xsd
+2026/04/21  05:38            14,795 dml-wordprocessingDrawing.xsd
+2026/04/21  05:38            83,612 pml.xsd
+2026/04/21  05:38             1,269 shared-additionalCharacteristics.xsd
+2026/04/21  05:38             7,328 shared-bibliography.xsd
+2026/04/21  05:38             6,382 shared-commonSimpleTypes.xsd
+2026/04/21  05:38             1,248 shared-customXmlDataProperties.xsd
+2026/04/21  05:38               880 shared-customXmlSchemaProperties.xsd
+2026/04/21  05:38             2,608 shared-documentPropertiesCustom.xsd
+2026/04/21  05:38             3,507 shared-documentPropertiesExtended.xsd
+2026/04/21  05:38             7,507 shared-documentPropertiesVariantTypes.xsd
+2026/04/21  05:38            23,313 shared-math.xsd
+2026/04/21  05:38             1,367 shared-relationshipReference.xsd
+2026/04/21  05:38           242,277 sml.xsd
+2026/04/21  05:38            26,148 vml-main.xsd
+2026/04/21  05:38            25,279 vml-officeDrawing.xsd
+2026/04/21  05:38               535 vml-presentationDrawing.xsd
+2026/04/21  05:38             5,712 vml-spreadsheetDrawing.xsd
+2026/04/21  05:38             4,010 vml-wordprocessingDrawing.xsd
+2026/04/21  05:38           171,367 wml.xsd
+2026/04/21  05:38             4,646 xml.xsd
+              27 File(s)        929,788 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\xlsx\scripts\office\schemas\mce
+
+2026/04/21  16:46    <DIR>          .
+2026/04/21  16:46    <DIR>          ..
+2026/04/21  05:38             3,127 mc.xsd
+               1 File(s)          3,127 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\xlsx\scripts\office\schemas\microsoft
+
+2026/04/21  16:46    <DIR>          .
+2026/04/21  16:46    <DIR>          ..
+2026/04/21  05:38            26,549 wml-2010.xsd
+2026/04/21  05:38             3,745 wml-2012.xsd
+2026/04/21  05:38               901 wml-2018.xsd
+2026/04/21  05:38             1,778 wml-cex-2018.xsd
+2026/04/21  05:38             1,002 wml-cid-2016.xsd
+2026/04/21  05:38               600 wml-sdtdatahash-2020.xsd
+2026/04/21  05:38               745 wml-symex-2015.xsd
+               7 File(s)         35,320 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\skills\xlsx\scripts\office\validators
+
+2026/04/21  16:46    <DIR>          .
+2026/04/21  16:46    <DIR>          ..
+2026/04/21  05:38            32,651 base.py
+2026/04/21  05:38            16,376 docx.py
+2026/04/21  05:38             9,824 pptx.py
+2026/04/21  05:38             8,918 redlining.py
+2026/04/21  05:38               336 __init__.py
+               5 File(s)         68,105 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\state
+
+2026/04/28  13:59    <DIR>          .
+2026/04/28  13:59    <DIR>          ..
+2026/04/29  08:32             1,429 agent_state.py
+2026/04/30  10:45    <DIR>          __pycache__
+               1 File(s)          1,429 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\state\__pycache__
+
+2026/04/30  10:45    <DIR>          .
+2026/04/30  10:45    <DIR>          ..
+2026/04/29  09:17             1,801 agent_state.cpython-310.pyc
+2026/04/30  10:45             1,767 agent_state.cpython-38.pyc
+               2 File(s)          3,568 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\subagent
+
+2026/04/28  20:13    <DIR>          .
+2026/04/28  20:13    <DIR>          ..
+2026/05/05  14:47             3,927 read_agent.py
+2026/05/05  14:47    <DIR>          __pycache__
+               1 File(s)          3,927 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\subagent\__pycache__
+
+2026/05/05  14:47    <DIR>          .
+2026/05/05  14:47    <DIR>          ..
+2026/05/05  14:47             3,123 read_agent.cpython-310.pyc
+               1 File(s)          3,123 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\tools
+
+2026/05/05  14:30    <DIR>          .
+2026/05/05  14:30    <DIR>          ..
+2026/05/03  13:57             2,025 bash_tools.py
+2026/04/30  16:36             5,510 compact_tools.py
+2026/04/29  10:52             1,529 file_tools.py
+2026/05/03  15:14               207 memory_save.py
+2026/05/05  14:37             2,813 request_tools.py
+2026/04/28  21:20             2,707 skills_tools.py
+2026/04/28  17:05             2,801 todo_manager.py
+2026/05/05  14:45    <DIR>          __pycache__
+               7 File(s)         17,592 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\tools\__pycache__
+
+2026/05/05  14:45    <DIR>          .
+2026/05/05  14:45    <DIR>          ..
+2026/05/03  14:11             1,576 bash_tools.cpython-310.pyc
+2026/04/30  10:45             1,723 bash_tools.cpython-38.pyc
+2026/04/30  16:36             4,439 compact_tools.cpython-310.pyc
+2026/04/30  10:45             4,565 compact_tools.cpython-38.pyc
+2026/04/29  10:54             1,774 file_tools.cpython-310.pyc
+2026/05/03  15:39               452 memory_save.cpython-310.pyc
+2026/05/05  14:45             2,537 request_tools.cpython-310.pyc
+2026/04/28  21:20             2,474 skills_tools.cpython-310.pyc
+2026/05/04  13:24             2,474 skills_tools.cpython-38.pyc
+2026/04/28  17:06             2,595 todo_manager.cpython-310.pyc
+              10 File(s)         24,609 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\utils
+
+2026/05/05  14:05    <DIR>          .
+2026/05/05  14:05    <DIR>          ..
+2026/04/30  13:29             8,577 bash_check.py
+2026/05/03  15:24               460 build_system_prompt.py
+2026/05/03  17:25             1,824 config_handler.py
+2026/05/03  15:12             6,327 dream_consolidator.py
+2026/05/03  13:57             7,232 hook_manager.py
+2026/04/29  20:54             3,613 logger_handler.py
+2026/05/05  14:04             2,285 message_bus.py
+2026/04/29  21:16             1,333 message_log.py
+2026/04/28  14:49             2,297 normalize_messages.py
+2026/04/28  14:38               464 path_sandbox.py
+2026/04/30  16:34             7,098 permission_check.py
+2026/05/05  14:18             1,529 request_store.py
+2026/05/05  14:45    <DIR>          __pycache__
+              12 File(s)         43,039 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\utils\__pycache__
+
+2026/05/05  14:45    <DIR>          .
+2026/05/05  14:45    <DIR>          ..
+2026/04/30  14:42             8,010 bash_check.cpython-310.pyc
+2026/05/03  15:39               618 build_system_prompt.cpython-310.pyc
+2026/05/03  17:32             1,312 config_handler.cpython-310.pyc
+2026/04/29  20:56             2,973 logger_handler.cpython-310.pyc
+2026/04/29  20:55             2,902 logger_handler.cpython-38.pyc
+2026/05/05  14:45             2,087 message_bus.cpython-310.pyc
+2026/04/29  21:17             1,795 message_log.cpython-310.pyc
+2026/04/29  21:16             1,717 message_log.cpython-38.pyc
+2026/04/28  15:20             1,578 normalize_messages.cpython-310.pyc
+2026/04/28  15:20               747 path_sandbox.cpython-310.pyc
+2026/04/29  20:55               748 path_sandbox.cpython-38.pyc
+2026/04/30  16:35             4,234 permission_check.cpython-310.pyc
+2026/04/30  13:36               728 permission_check.cpython-38.pyc
+2026/05/05  14:45             1,825 request_store.cpython-310.pyc
+              14 File(s)         31,274 bytes
+
+ Directory of D:\学习资料整理\面试记录\Mini Claude Code\__pycache__
+
+2026/05/05  14:46    <DIR>          .
+2026/05/05  14:46    <DIR>          ..
+2026/04/28  17:05             2,590 agent_loop.cpython-38.pyc
+2026/05/05  14:46             2,291 system_prompt.cpython-310.pyc
+2026/05/04  13:24             2,174 system_prompt.cpython-38.pyc
+2026/05/05  14:45             4,864 tools_configs.cpython-310.pyc
+2026/05/05  14:43             4,840 tools_configs.cpython-38.pyc
+2026/05/05  14:45             4,725 tools_handlers.cpython-310.pyc
+               6 File(s)         21,484 bytes
+
+     Total Files Listed:
+             510 File(s)      5,525,974 bytes
+             278 Dir(s)  36,683,018,240 bytes free
